@@ -6,16 +6,32 @@
 
 
 **GENERAL REQUIREMENTS**
+
+
+
 An organization must 
+
+
 1. establish a QMS
+
+
 2. Document it
+
+
 3.Implement it
+
+
+
 4.Maintain it
 
 
 
 
 **DOCUMENTATION REQUIREMENTS**
+
+
+
+
 **1.quality manual**
 it is the rule book of the company
 it must include the scope,quality policy,departments,procedures and intraction between processes
